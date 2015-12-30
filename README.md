@@ -32,14 +32,33 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ## Hardware
 
-### Ergonomic geometries
+### Keyboards
 
-- [Axios](http://axios.io/models)
-- [Dactyl](https://github.com/adereth/dactyl-keyboard)
-- [ErgoDox](http://ergodox.org)
+##### Table legend
+
+- **Ortho**: keys are not staggered
+- **Split**: each hand is separated by a significant gap. Parts are fixed or independent
+- **Index**: pinky keys are located in the center
+- **Thumbs**: thumb clusters are available
+
+|                                                                                        | Ortho | Split | Index | Thumb |
+|----------------------------------------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|
+| [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |
+| [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |
+| [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |
+| [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |
+| [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |
+| [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |
+| [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |
+| [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |
+| [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |
+
+## Docs
+
+- [XAH Keyboarding](http://xahlee.info/kbd/keyboarding.html)
 
 ## Communities
 
 - [Deskthority](http://deskthority.net) - mechanical keyboard club
 - [GeekHack](https://geekhack.org) - keyboard enthusiasts
-- [/r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
+- [/r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/) - subreddit
