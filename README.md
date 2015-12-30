@@ -1,15 +1,25 @@
 # awesome-keyboard
 
-A curated list of awesome resources about configuring and building keyboards
+A curated list of awesome resources about configuring and building keyboards.
 
 ## Software
 
 ### Layouts
 
+#### DE
+
+- [ADNW](http://www.adnw.de)
+- [Neo](http://www.neo-layout.org)
+
 #### EN
 
+- [Asset](http://millikeys.sourceforge.net/asset/)
+- [Capewell](http://www.michaelcapewell.com/projects/keyboard/)
 - [Colemak](http://colemak.com)
 - [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+- [Mininak](http://www.minimak.org)
+- [Norman](https://normanlayout.info)
+- [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/)
 - [Workman](http://www.workmanlayout.com)
 
 #### FR
