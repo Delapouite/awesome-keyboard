@@ -46,6 +46,8 @@ A curated list of awesome resources about configuring and building keyboards.
 | [Atreus](http://atreus.technomancy.us/)                                                |  yes  | fixed |  no   |  no   |      |
 | [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |      |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |      |
+| [Das Keyboard](http://www.daskeyboard.com/products/?filter=keyboard)                   |       |       |       |       |      |
+| [Ducky](http://www.duckychannel.com.tw/en/keyboard.html)                               |       |       |       |       |      |
 | [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |      |
 | [HHKB](http://www.pfusystems.com/embedded-keyboard/hhkb/index.html)                    |  no   | no    |  no   |  no   |      |
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
