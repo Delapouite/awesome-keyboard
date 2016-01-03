@@ -4,6 +4,10 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ## Software
 
+### Tools
+
+- [xcape](https://github.com/alols/xcape) - configure modifier keys to act as other keys when pressed and released on their own.
+
 ### Layouts
 
 #### DE
