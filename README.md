@@ -47,6 +47,7 @@ A curated list of awesome resources about configuring and building keyboards.
 | [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |      |
 | [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |      |
 | [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |      |
+| [HHKB](http://www.pfusystems.com/embedded-keyboard/hhkb/index.html)                    |  no   | no    |  no   |  no   |      |
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
 | [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
 | [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
