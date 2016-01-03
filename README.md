@@ -50,6 +50,7 @@ A curated list of awesome resources about configuring and building keyboards.
 | [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
 | [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
 | [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
+| [Poker II](https://www.facebook.com/Vortexgear)                                        |  no   | no    |  no   |  no   | 60%  |
 | [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
 | [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
