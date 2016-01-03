@@ -41,17 +41,18 @@ A curated list of awesome resources about configuring and building keyboards.
 - **Index**: pinky keys are located in the center
 - **Thumbs**: thumb clusters are available
 
-|                                                                                        | Ortho | Split | Index | Thumb |
-|----------------------------------------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|
-| [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |
-| [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |
-| [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |
-| [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |
-| [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |
-| [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |
-| [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |
-| [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |
-| [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |
+|                                                                                        | Ortho | Split | Index | Thumb | Size |
+|----------------------------------------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|:----:|
+| [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |      |
+| [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |      |
+| [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |      |
+| [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
+| [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
+| [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
+| [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
+| [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
+| [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
+| [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
 
 ## Docs
 
