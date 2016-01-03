@@ -57,6 +57,13 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ## Docs
 
+### XKB
+
+- [An Unreliable Guide to XKB Configuration](http://www.charvolant.org/~doug/xkb/html/xkb.html)
+- [Arch's Wiki](https://wiki.archlinux.org/index.php/X_KeyBoard_extension)
+
+### Misc.
+
 - [XAH Keyboarding](http://xahlee.info/kbd/keyboarding.html)
 
 ## Communities
