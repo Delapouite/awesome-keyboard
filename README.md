@@ -9,6 +9,9 @@ A curated list of awesome resources about configuring and building keyboards.
 - [xcape](https://github.com/alols/xcape) - configure modifier keys to act as other keys when pressed and released on their own.
 - [xdotool](http://www.semicomplete.com/projects/xdotool/) - simulate keyboard input and mouse activity
 - [xev](http://www.x.org/archive/X11R7.7/doc/man/man1/xev.1.xhtml) - print contents of X events
+- [XKB](http://www.x.org/wiki/XKB/)
+- [xkbcommon](http://xkbcommon.org) - library to handle keyboard descriptions
+- [XKeyboardConfig](http://www.freedesktop.org/wiki/Software/XKeyboardConfig/) - provide consistent, well-structured, frequently released open source of X keyboard conf data
 
 ### Layouts
 
