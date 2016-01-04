@@ -6,7 +6,8 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ### Tools
 
-- [xcape](https://github.com/alols/xcape) - configure modifier keys to act as other keys when pressed and released on their own.
+- [AutoHotkey](https://www.autohotkey.com) - macro-creation and automation software for Windows
+- [xcape](https://github.com/alols/xcape) - configure modifier keys to act as other keys when pressed and released on their own
 - [xdotool](http://www.semicomplete.com/projects/xdotool/) - simulate keyboard input and mouse activity
 - [xev](http://www.x.org/archive/X11R7.7/doc/man/man1/xev.1.xhtml) - print contents of X events
 - [XKB](http://www.x.org/wiki/XKB/)
