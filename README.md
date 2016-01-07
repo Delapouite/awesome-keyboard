@@ -42,6 +42,10 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ## Hardware
 
+### Microcontrollers
+
+- [Teensy](https://www.pjrc.com/teensy/)
+
 ### Keyboards
 
 ##### Table legend
