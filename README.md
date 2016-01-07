@@ -81,8 +81,10 @@ A curated list of awesome resources about configuring and building keyboards.
 
 - [An Unreliable Guide to XKB Configuration](http://www.charvolant.org/~doug/xkb/html/xkb.html)
 - [Arch's Wiki](https://wiki.archlinux.org/index.php/X_KeyBoard_extension)
+- [XKB Homepage](http://www.x.org/wiki/XKB/)
 - [How to further enhance XKB configuration](http://www.x.org/releases/current/doc/xorg-docs/input/XKB-Enhancing.html)
 - [RMLVO to KTCSG](http://who-t.blogspot.fr/2008/09/rmlvo-keyboard-configuration.html) - Rules Model Layout Variant Options ⇒ Keycodes Types Compat Symbols Geometry
+- [User XKB Customization](http://www.vinc17.org/unix/xkb.en.html)
 
 ### Misc.
 
