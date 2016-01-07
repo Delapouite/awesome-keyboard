@@ -59,6 +59,7 @@ A curated list of awesome resources about configuring and building keyboards.
 | [Das Keyboard](http://www.daskeyboard.com/products/?filter=keyboard)                   |       |       |       |       |      |
 | [Ducky](http://www.duckychannel.com.tw/en/keyboard.html)                               |       |       |       |       |      |
 | [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |      |
+| [Filco](https://www.diatec.co.jp/en/)                                                  |       |       |       |       |      |
 | [HHKB](http://www.pfusystems.com/embedded-keyboard/hhkb/index.html)                    |  no   | no    |  no   |  no   |      |
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
 | [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
