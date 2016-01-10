@@ -2,6 +2,17 @@
 
 A curated list of awesome resources about configuring and building keyboards.
 
+## Table of Contents
+
+- [Software](#software)
+    - [Tools](#tools)
+    - [Layouts](#layouts)
+- [Hardware](#hardware)
+   - [Microcontrollers](#microcontrollers)
+   - [Keyboards](#keyboards)
+- [Docs](#docs)
+- [Communities](#communities)
+
 ## Software
 
 ### Tools
