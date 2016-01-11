@@ -10,6 +10,7 @@ A curated list of awesome resources about configuring and building keyboards.
 - [Hardware](#hardware)
    - [Microcontrollers](#microcontrollers)
    - [Keyboards](#keyboards)
+   - [Sleeves](#sleeves)
 - [Docs](#docs)
 - [Communities](#communities)
 
@@ -95,6 +96,10 @@ A curated list of awesome resources about configuring and building keyboards.
 | [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
 | [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
+
+### Sleeves
+
+- [1UP Keyboards](http://1upkeyboards.com/)
 
 ## Docs
 
