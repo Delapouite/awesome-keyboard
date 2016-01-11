@@ -26,6 +26,10 @@ A curated list of awesome resources about configuring and building keyboards.
 - [xkbcommon](http://xkbcommon.org) - library to handle keyboard descriptions
 - [XKeyboardConfig](http://www.freedesktop.org/wiki/Software/XKeyboardConfig/) - provide consistent, well-structured, frequently released open source of X keyboard conf data
 
+#### Mac
+
+- [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - ex PcKeyboardHack - Utility for the caps lock key and some international keys in PC keyboards
+
 #### Windows
 
 - [AutoHotkey](https://www.autohotkey.com) - macro-creation and automation software for Windows
