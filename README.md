@@ -114,6 +114,8 @@ A curated list of awesome resources about configuring and building keyboards.
 
 ### Misc.
 
+- [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+- [Mechanical Keyboard Guide](http://www.overclock.net/t/491752/official-mechanical-keyboard-guide)
 - [XAH Keyboarding](http://xahlee.info/kbd/keyboarding.html)
 
 ## Communities
