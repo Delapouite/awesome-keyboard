@@ -81,6 +81,7 @@ A curated list of awesome resources about configuring and building keyboards.
 |----------------------------------------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|:----:|
 | [Atreus](http://atreus.technomancy.us/)                                                |  yes  | fixed |  no   |  no   |      |
 | [Axios](http://axios.io/models)                                                        |  yes  | inde  |  yes  |  yes  |      |
+| [Beeraider](http://www.beeraider.com)                                                  |  no   | no    |  yes  |  no   |radial|
 | [Dactyl](https://github.com/adereth/dactyl-keyboard)                                   |  yes  | inde  |  no   |  yes  |      |
 | [Das Keyboard](http://www.daskeyboard.com/products/?filter=keyboard)                   |       |       |       |       |      |
 | [Ducky](http://www.duckychannel.com.tw/en/keyboard.html)                               |       |       |       |       |      |
