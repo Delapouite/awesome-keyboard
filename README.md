@@ -1,6 +1,6 @@
 # awesome-keyboard
 
-A curated list of awesome resources about configuring and building keyboards.
+A curated list of awesome resources about typing, configuring and building keyboards.
 
 ## Table of Contents
 
@@ -97,6 +97,8 @@ A curated list of awesome resources about configuring and building keyboards.
 | [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
 | [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
+| [WASD](http://www.wasdkeyboards.com)                                                   |       |       |       |       |      |
+
 
 ### Sleeves
 
