@@ -86,6 +86,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [Das Keyboard](http://www.daskeyboard.com/products/?filter=keyboard)                   |       |       |       |       |      |
 | [Ducky](http://www.duckychannel.com.tw/en/keyboard.html)                               |       |       |       |       |      |
 | [ErgoDox](http://ergodox.org)                                                          |  yes  | inde  |  yes  |  yes  |      |
+| [Esrille](http://www.esrille.com/keyboard/)                                            |  yes  | fixed |  yes  |  yes  |      |
 | [Filco](https://www.diatec.co.jp/en/)                                                  |       |       |       |       |      |
 | [HHKB](http://www.pfusystems.com/embedded-keyboard/hhkb/index.html)                    |  no   | no    |  no   |  no   |      |
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
