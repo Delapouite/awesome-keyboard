@@ -124,6 +124,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 
 ## Communities
 
+- [CAPSoff](http://capsoff.org) - battle agains Caps Lock
 - [Deskthority](http://deskthority.net) - mechanical keyboard club
 - [GeekHack](https://geekhack.org) - keyboard enthusiasts
 - [/r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/) - subreddit
