@@ -98,6 +98,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
 | [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
+| [Unique Keyboard](http://uniquekeyboard.com)                                           |       |       |       |       |      |
 | [WASD](http://www.wasdkeyboards.com)                                                   |       |       |       |       |      |
 
 
