@@ -123,6 +123,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 
 - [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 - [Mechanical Keyboard Guide](http://www.overclock.net/t/491752/official-mechanical-keyboard-guide)
+- [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) - standard for layouts
 - [XAH Keyboarding](http://xahlee.info/kbd/keyboarding.html)
 
 ## Communities
