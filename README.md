@@ -119,6 +119,11 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [RMLVO to KTCSG](http://who-t.blogspot.fr/2008/09/rmlvo-keyboard-configuration.html) - Rules Model Layout Variant Options ⇒ Keycodes Types Compat Symbols Geometry
 - [User XKB Customization](http://www.vinc17.org/unix/xkb.en.html)
 
+### Steno
+
+- [The Open Steno Project](http://www.openstenoproject.org/) - An umbrella project for open source steno tools
+- [QWERTY Steno](http://qwertysteno.com/Home/)
+
 ### Misc.
 
 - [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
