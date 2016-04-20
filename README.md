@@ -10,6 +10,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [Hardware](#hardware)
    - [Microcontrollers](#microcontrollers)
    - [Keyboards](#keyboards)
+   - [Caps](#caps)
    - [Sleeves](#sleeves)
 - [Docs](#docs)
 - [Communities](#communities)
@@ -102,6 +103,10 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
 | [Unique Keyboard](http://uniquekeyboard.com)                                           |       |       |       |       |      |
 | [WASD](http://www.wasdkeyboards.com)                                                   |       |       |       |       |      |
+
+### Caps
+
+- [KeyPuller](http://keypuller.com/) - Key caps News & Database
 
 
 ### Sleeves
