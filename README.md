@@ -103,6 +103,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
 | [Unique Keyboard](http://uniquekeyboard.com)                                           |       |       |       |       |      |
 | [WASD](http://www.wasdkeyboards.com)                                                   |       |       |       |       |      |
+| [X-Bows](http://www.x-bows.com/)                                                       |  yes  | fixed |  yes  | small |      |
 
 ### Caps
 
