@@ -93,12 +93,14 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
 | [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
 | [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
+| [Orbitouch](https://orbitouch.com/)                                                    |       | fixed |  no   |  no   |      |
 | [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
 | [Poker II](https://www.facebook.com/Vortexgear)                                        |  no   | no    |  no   |  no   | 60%  |
+| [SafeType](http://safetype.com/)                                                       |  no   | inde  |  no   |  no   |      |
 | [Stenoboard](http://stenoboard.com/)                                                   |  yes  | inde  |  no   | small |      |
 | [Space-Cadet](https://en.wikipedia.org/wiki/Space-cadet_keyboard)                      |  no   | no    |  no   |  no   |      |
 | [TEMK](https://www.trulyergonomic.com)                                                 |  yes  | no    |  yes  | small |      |
-| [TextBlade](https://waytools.com/)                                                     |  yes  | inde  |  no   | no    | 40%  |
+| [TextBlade](https://waytools.com/)                                                     |  yes  | inde  |  no   |  no   | 40%  |
 | [TypeMatrix](http://typematrix.com)                                                    |  yes  | no    |  yes  |  no   |      |
 | [UHK](https://ultimatehackingkeyboard.com)                                             |  no   | inde  |  no   | small |      |
 | [Unique Keyboard](http://uniquekeyboard.com)                                           |       |       |       |       |      |
