@@ -96,6 +96,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
 | [Orbitouch](https://orbitouch.com/)                                                    |       | fixed |  no   |  no   |      |
 | [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
+| [PLUM](https://en.wikipedia.org/wiki/PLUM_keyboard)                                    |  yes  | no    |  yes  | small |      |
 | [Poker II](https://www.facebook.com/Vortexgear)                                        |  no   | no    |  no   |  no   | 60%  |
 | [SafeType](http://safetype.com/)                                                       |  no   | inde  |  no   |  no   |      |
 | [Stenoboard](http://stenoboard.com/)                                                   |  yes  | inde  |  no   | small |      |
