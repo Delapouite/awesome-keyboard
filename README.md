@@ -98,6 +98,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
 | [PLUM](https://en.wikipedia.org/wiki/PLUM_keyboard)                                    |  yes  | no    |  yes  | small |      |
 | [Poker II](https://www.facebook.com/Vortexgear)                                        |  no   | no    |  no   |  no   | 60%  |
+| [Redox](https://github.com/mattdibi/redox-keyboard)                                    |  yes  | inde  |  yes  |  yes  |      |
 | [SafeType](http://safetype.com/)                                                       |  no   | inde  |  no   |  no   |      |
 | [Stenoboard](http://stenoboard.com/)                                                   |  yes  | inde  |  no   | small |      |
 | [Space-Cadet](https://en.wikipedia.org/wiki/Space-cadet_keyboard)                      |  no   | no    |  no   |  no   |      |
