@@ -142,6 +142,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [Mechanical Keyboard Guide](http://www.overclock.net/t/491752/official-mechanical-keyboard-guide)
 - [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) - standard for layouts
 - [XAH Keyboarding](http://xahlee.info/kbd/keyboarding.html)
+- https://github.com/diimdeep/awesome-split-keyboards
 
 ## Communities
 
@@ -149,3 +150,4 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [Deskthority](http://deskthority.net) - mechanical keyboard club
 - [GeekHack](https://geekhack.org) - keyboard enthusiasts
 - [/r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/) - subreddit
+
