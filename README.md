@@ -54,6 +54,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [Norman](https://normanlayout.info)
 - [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/)
 - [Workman](http://www.workmanlayout.com)
+- [Halmak](https://github.com/MadRabbit/halmak)
 
 #### FR
 
@@ -135,6 +136,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 
 - [The Open Steno Project](http://www.openstenoproject.org/) - An umbrella project for open source steno tools
 - [QWERTY Steno](http://qwertysteno.com/Home/)
+- [qweyboard](https://github.com/kqr/qweyboard/)
 
 ### Misc.
 
