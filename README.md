@@ -27,6 +27,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 - [XKB](http://www.x.org/wiki/XKB/)
 - [xkbcommon](http://xkbcommon.org) - library to handle keyboard descriptions
 - [XKeyboardConfig](http://www.freedesktop.org/wiki/Software/XKeyboardConfig/) - provide consistent, well-structured, frequently released open source of X keyboard conf data
+- [interception tools](https://gitlab.com/interception/linux/tools)
 
 #### Mac
 
