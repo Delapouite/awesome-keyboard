@@ -31,7 +31,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 
 #### Mac
 
-- [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - ex PcKeyboardHack - Utility for the caps lock key and some international keys in PC keyboards
+- [Karabiner Elements](https://karabiner-elements.pqrs.org/) - ex PcKeyboardHack / Seil - Utility for the caps lock key and some international keys in PC keyboards
 
 #### Windows
 
@@ -96,6 +96,7 @@ A curated list of awesome resources about typing, configuring and building keybo
 | [HHKB](http://www.pfusystems.com/embedded-keyboard/hhkb/index.html)                    |  no   | no    |  no   |  no   |      |
 | [Keyboardio](http://keyboard.io)                                                       |  yes  | inde  |  yes  |  yes  |      |
 | [Kinesis](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)                      |  yes  | fixed |  no   |  yes  |      |
+| [Kyria](https://splitkb.com/)                                                          |  yes  | inde  |  no   |  yes  | 40%  |
 | [Maltron](http://www.maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards) |  yes  | fixed |  yes  |  yes  |      |
 | [Orbitouch](https://orbitouch.com/)                                                    |       | fixed |  no   |  no   |      |
 | [Planck](http://ortholinearkeyboards.com/planck)                                       |  yes  | no    |  no   |  no   | 40%  |
